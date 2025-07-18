@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log and data files
+logs/
+downloads/
+*.session
+*.session-journal
+
+# Secrets file
+.env
